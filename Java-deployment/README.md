@@ -204,6 +204,64 @@ tail -f /opt/tomcat/logs/catalina.out
 
 ## Images:
 
+## 1. EC2 Instance:
+
+<img width="1900" height="908" alt="Image" src="https://github.com/user-attachments/assets/96ecf07c-450d-4f3a-b4a1-17c6f3ea5774" />
+
+## 2. Java17 version:
+
+<img width="1247" height="222" alt="Image" src="https://github.com/user-attachments/assets/66ac13be-7e70-4592-b5ff-8f02dc169307" />
+
+## 3. Git version:
+
+<img width="835" height="147" alt="Image" src="https://github.com/user-attachments/assets/fcf64fd0-3724-4cbd-8443-ae909df46cd7" />
+
+## 4. Maven Validate:
+
+<img width="1157" height="381" alt="Image" src="https://github.com/user-attachments/assets/70678f9e-f1be-429d-9d5d-593e10823916" />
+
+## 5. Build Success:
+
+<img width="1900" height="648" alt="Image" src="https://github.com/user-attachments/assets/6b5ba6ed-2b1d-4802-978d-9112fea3b90c" />
+
+## 6. Apache Tomcat:
+
+<img width="1918" height="370" alt="Image" src="https://github.com/user-attachments/assets/76e87cce-bb96-4f44-98a7-c54c9f9c91e1" />
+
+## 7. Extract tar files:
+
+<img width="1157" height="157" alt="Image" src="https://github.com/user-attachments/assets/a09d0052-3e06-4dfc-90e5-933f18bfe971" />
+
+## 8. Copy the war files into webapps:
+
+<img width="1317" height="158" alt="Image" src="https://github.com/user-attachments/assets/b21c5479-eab4-4636-ac2d-dd8de091c30a" />
+
+## 9. Apache tomcat:
+
+<img width="1917" height="1017" alt="Image" src="https://github.com/user-attachments/assets/f691b904-fb23-4dee-9fa6-fe2c89bd20ea" />
+
+## 10. Manager Access:
+
+<img width="1918" height="963" alt="Image" src="https://github.com/user-attachments/assets/48883690-56ef-4638-8182-33d6ee937ed8" />
+
+## 11. Tomcat Login:
+
+<img width="1917" height="981" alt="Image" src="https://github.com/user-attachments/assets/870a743b-9399-400f-b62c-957118d5195a" />
+
+## 12. Java Output:
+
+<img width="1912" height="1007" alt="Image" src="https://github.com/user-attachments/assets/91ba1f2b-dda8-4d5f-8429-b4fff628b9a4" />
+
+## 13. Java Output with inputs:
+
+<img width="1917" height="976" alt="Image" src="https://github.com/user-attachments/assets/67d51f74-3ac8-4f94-9e8d-b01a056a84d1" />
+
+## 14. Java Output Result:
+
+<img width="1917" height="967" alt="Image" src="https://github.com/user-attachments/assets/4d268169-2ddd-495b-a34f-9c96078adc6e" />
+
+
+
 
 ## 📌 Project Summary:
 
