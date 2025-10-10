@@ -134,11 +134,18 @@ http://<EC2-Public-IP>:8080/LoginWebApp/
 ```
 ## ✅ Screenshots:
 
-✅ Login page running on Tomcat
+## ✅ Login page running on Tomcat:
 
-✅ User registration and login
+<img width="1911" height="965" alt="Image" src="https://github.com/user-attachments/assets/7af4c8c6-fea1-42b0-9213-45fef49bce1d" />
 
-✅ Data stored in AWS RDS
+## ✅ User registration and login:
+
+<img width="1913" height="967" alt="Image" src="https://github.com/user-attachments/assets/a3105e2b-ed20-4f2c-a7cd-a325fc440f45" />
+
+## ✅ Data stored in AWS RDS:
+
+<img width="1916" height="977" alt="Image" src="https://github.com/user-attachments/assets/cc667646-8923-4fd0-b594-19b9679fecfd" />
+
 
 Add your screenshots here.
 
