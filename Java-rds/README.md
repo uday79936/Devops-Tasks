@@ -161,20 +161,31 @@ Add your screenshots here.
 
 ## 📁 Project Structure:
 
-pgsql
-Copy code
+```
 LoginWebApp/
+
 ├── pom.xml
+
 └── src/
+
     └── main/
+
         └── webapp/
+
             ├── WEB-INF/web.xml
+
             ├── index.jsp
+
             ├── login.jsp
+
             ├── register.jsp
+
             ├── userRegistration.jsp
+
             ├── success.jsp
+
             └── welcome.jsp
+```
 📚 License
 
 ## Author:
