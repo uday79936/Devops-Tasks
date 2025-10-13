@@ -28,7 +28,9 @@ sudo npm install -g @angular/cli
 ```
 
 
-📸 Screenshot 2: Node.js, npm, and Angular CLI installation successful.
+📸 Screenshot 1: Node.js, npm, and Angular CLI installation successful.
+
+<img width="1892" height="742" alt="Image" src="https://github.com/user-attachments/assets/9d332c6d-bf1e-44fa-8594-c76748e50f16" />
 
 
 ## 1.3 Clone the Angular Calculator Repository:
@@ -42,7 +44,9 @@ cd AngularCalculator
 npm install
 ```
 
-📸 Screenshot 4: Dependencies installed successfully.
+📸 Screenshot 2: Dependencies installed successfully.
+
+<img width="1892" height="742" alt="Image" src="https://github.com/user-attachments/assets/9d332c6d-bf1e-44fa-8594-c76748e50f16" />
 
 ## 1.5 Build Angular Application for Production:
 ```
@@ -52,7 +56,9 @@ sudo ng build --prod
 
 **After the build completes, a new directory dist/angularCalc is created.**
 
-📸 Screenshot 5: Successful build output with dist/ folder visible.
+📸 Screenshot 3: Successful build output with dist/ folder visible.
+
+<img width="1420" height="170" alt="Image" src="https://github.com/user-attachments/assets/a5f61213-fa37-4b47-835e-443a1bc52525" />
 
 ## 🚀 VM2 – Deployment Environment Setup:
 
@@ -71,7 +77,9 @@ sudo systemctl enable nginx
 sudo systemctl status nginx
 ```
 
-📸 Screenshot 7: Nginx running and active.
+📸 Screenshot 4: Nginx running and active.
+
+<img width="1663" height="503" alt="Image" src="https://github.com/user-attachments/assets/36171e48-4cfe-4d61-bf49-dc3dbcbdc555" />
 
 ## 🔁 Transfer Angular Build Files from VM1 to VM2:
 
@@ -88,7 +96,9 @@ scp -r * ubuntu@<vm2-ip>:/var/www/html/
 Replace <vm2-ip> with VM2’s public IP.
 
 
-📸 Screenshot 8: SCP transfer output showing successful file transfer.
+📸 Screenshot 5: SCP transfer output showing successful file transfer.
+
+<img width="1886" height="401" alt="Image" src="https://github.com/user-attachments/assets/56ef3cac-fe9c-4ff4-8669-112d2dd83361" />
 
 ## 3.3 Verify Files on VM2:
 
@@ -98,7 +108,18 @@ Replace <vm2-ip> with VM2’s public IP.
 ls /var/www/html/
 ```
 
-📸 Screenshot 9: Files from angularCalc visible in /var/www/html/.
+📸 Screenshot 6: Files from angularCalc visible in /var/www/html/.
+
+<img width="1515" height="151" alt="Image" src="https://github.com/user-attachments/assets/36108562-dbde-4ba4-8a93-95f74b5ffc20" />
+
+## Javascript output:
+
+<img width="1895" height="957" alt="Image" src="https://github.com/user-attachments/assets/1ab5b899-14af-4124-a09a-126661394c36" />
+
+## Javascript output test:
+
+<img width="1911" height="981" alt="Image" src="https://github.com/user-attachments/assets/dd61b44a-753a-4d9c-99d5-84d70947b0f8" />
+
 
 ## Author:
 
