@@ -15,7 +15,7 @@ VM2 (Deployment VM): Used to deploy the built application using Nginx.
 ```
 sudo apt -y update
 sudo apt -y upgrade
-sudo hostnamectl set-hostname vm1-dev
+sudo hostnamectl set-hostname javascript-build-server
 ```
 
 ## 1.2 Install Node.js, npm, and Angular CLI:
@@ -28,7 +28,7 @@ sudo npm install -g @angular/cli
 ```
 
 
-📸 Screenshot 1: Node.js, npm, and Angular CLI installation successful.
+## 📸 Screenshot 1: Node.js, npm, and Angular CLI installation successful.
 
 <img width="1892" height="742" alt="Image" src="https://github.com/user-attachments/assets/9d332c6d-bf1e-44fa-8594-c76748e50f16" />
 
@@ -44,7 +44,7 @@ cd AngularCalculator
 npm install
 ```
 
-📸 Screenshot 2: Dependencies installed successfully.
+## 📸 Screenshot 2: Dependencies installed successfully.
 
 <img width="1892" height="742" alt="Image" src="https://github.com/user-attachments/assets/9d332c6d-bf1e-44fa-8594-c76748e50f16" />
 
@@ -56,7 +56,7 @@ sudo ng build --prod
 
 **After the build completes, a new directory dist/angularCalc is created.**
 
-📸 Screenshot 3: Successful build output with dist/ folder visible.
+## 📸 Screenshot 3: Successful build output with dist/ folder visible.
 
 <img width="1420" height="170" alt="Image" src="https://github.com/user-attachments/assets/a5f61213-fa37-4b47-835e-443a1bc52525" />
 
@@ -66,7 +66,7 @@ sudo ng build --prod
 ```
 sudo apt -y update
 sudo apt -y upgrade
-sudo hostnamectl set-hostname vm2-prod
+sudo hostnamectl set-hostname javascript-deploy-server
 ```
 
 ## 2.2 Install and Start Nginx:
@@ -77,7 +77,7 @@ sudo systemctl enable nginx
 sudo systemctl status nginx
 ```
 
-📸 Screenshot 4: Nginx running and active.
+## 📸 Screenshot 4: Nginx running and active.
 
 <img width="1663" height="503" alt="Image" src="https://github.com/user-attachments/assets/36171e48-4cfe-4d61-bf49-dc3dbcbdc555" />
 
@@ -108,7 +108,7 @@ Replace <vm2-ip> with VM2’s public IP.
 ls /var/www/html/
 ```
 
-📸 Screenshot 6: Files from angularCalc visible in /var/www/html/.
+## 📸 Screenshot 6: Files from angularCalc visible in /var/www/html/.
 
 <img width="1515" height="151" alt="Image" src="https://github.com/user-attachments/assets/36108562-dbde-4ba4-8a93-95f74b5ffc20" />
 
