@@ -261,27 +261,39 @@ WAR not deployed	Wrong file path	Ensure WAR is inside /opt/tomcat/webapps
 ## 📄 Deliverables:
 
 
-✅ Java Build Server
+## ✅ Java Build Server:
 
-Git-cloned project
+## Maven Validate:
 
-.war file in target/
+<img width="1250" height="373" alt="Image" src="https://github.com/user-attachments/assets/49368a22-954a-4b9b-9b54-083728cbbbd9" />
 
-Successful mvn deploy
+## Maven Build Success:
 
-✅ Nexus Repository Server
+<img width="1892" height="446" alt="Image" src="https://github.com/user-attachments/assets/b736aae9-5b54-4c94-9bb8-c6f51a9060ce" />
 
-Nexus installed and running
+## ✅ Nexus Repository Server:
 
-maven-releases repository configured
+## Nexus repository:
 
-Artifact uploaded successfully
+<img width="1905" height="981" alt="Image" src="https://github.com/user-attachments/assets/4cacb51a-d627-4047-96c1-85b539600873" />
 
-✅ Deploy Server
+## Nexus Password:
 
-Tomcat configured and running
+<img width="985" height="153" alt="Image" src="https://github.com/user-attachments/assets/5fb0a452-aab3-445d-a22f-5346498c79c8" />
 
-WAR deployed and accessible
+## Artifact uploaded successfully:
+
+<img width="1912" height="922" alt="Image" src="https://github.com/user-attachments/assets/c542890c-f675-425e-a026-3eaa8d9c8078" />
+
+## ✅ Deploy Server:
+
+**Tomcat configured and running:**
+
+<img width="1917" height="423" alt="Image" src="https://github.com/user-attachments/assets/372298f8-5766-40cc-b31d-4121031da0cd" />
+
+## WAR deployed and accessible:
+
+<img width="1328" height="667" alt="Image" src="https://github.com/user-attachments/assets/44443ab5-770a-4f4f-92c9-e2a2f7b6f5e4" />
 
 ## ✅ Final Outcome:
 
