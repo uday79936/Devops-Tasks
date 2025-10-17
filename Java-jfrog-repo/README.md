@@ -279,6 +279,10 @@ WAR not deployed	Wrong file path	Ensure WAR is inside /apache-tomcat/webapps
 
 <img width="1917" height="972" alt="Image" src="https://github.com/user-attachments/assets/8cc36292-3a9a-473e-a742-1e72c2fb0380" />
 
+## Path:
+
+<img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/6d55435b-6db5-4129-97cb-20b4d2a1e89f" />
+
 ## To download the tomcat:
 
 <img width="1902" height="385" alt="Image" src="https://github.com/user-attachments/assets/80e363a7-99f5-426d-94dc-3056f4788efd" />
@@ -287,9 +291,7 @@ WAR not deployed	Wrong file path	Ensure WAR is inside /apache-tomcat/webapps
 
 <img width="1112" height="186" alt="Image" src="https://github.com/user-attachments/assets/c7cdf5d2-ef65-4f34-aee0-e9d6c2c8e4cc" />
 
-## Path:
 
-<img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/6d55435b-6db5-4129-97cb-20b4d2a1e89f" />
 
 ## To download the war file in tomcat:
 
