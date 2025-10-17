@@ -223,6 +223,94 @@ WAR not deployed	Wrong file path	Ensure WAR is inside /apache-tomcat/webapps
 
 ## Images:
 
+## Instances
+
+**Java-build-Deploy-server:**
+
+<img width="1918" height="920" alt="Image" src="https://github.com/user-attachments/assets/ed9e1220-837d-4655-b66e-a724c15e6985" />
+
+**Jfrog-server:**
+
+<img width="1913" height="902" alt="Image" src="https://github.com/user-attachments/assets/6b1aecf0-f373-438b-87f4-76e4af6c0529" />
+
+## build-deploy-server:
+
+## Clone the Repository:
+
+<img width="1368" height="268" alt="Image" src="https://github.com/user-attachments/assets/ce3f2985-561f-472e-9557-2bb2ca20a5b1" />
+
+## Java 17 Version:
+
+<img width="1377" height="247" alt="Image" src="https://github.com/user-attachments/assets/bc42c030-0fbf-4def-b383-5f0e6b6daf7a" />
+
+## Maven validate:
+
+<img width="1096" height="431" alt="Image" src="https://github.com/user-attachments/assets/f4f3d961-4ddf-4c7c-a613-d753535bebf2" />
+
+## Maven Package:
+
+<img width="1916" height="617" alt="Image" src="https://github.com/user-attachments/assets/c9fc0dca-bfae-40e3-80b1-b48df6ec9d2e" />
+
+## Download the jfrog-artifactory:
+
+<img width="1898" height="655" alt="Image" src="https://github.com/user-attachments/assets/1a4a670d-8c04-409b-8ce3-15f540dd68e7" />
+
+## fix broken:
+
+<img width="1632" height="720" alt="Image" src="https://github.com/user-attachments/assets/18094274-eba2-464e-85c4-538adcf45c8e" />
+
+## Status active:
+
+<img width="1897" height="602" alt="Image" src="https://github.com/user-attachments/assets/7e100ce6-e19e-4123-a263-6b5a0d030396" />
+
+## Login Page:
+
+<img width="1911" height="950" alt="Image" src="https://github.com/user-attachments/assets/8094fd37-5bf2-472a-a641-c4bd860e2374" />
+
+## To store artifact in jfrog:
+
+<img width="1878" height="625" alt="Image" src="https://github.com/user-attachments/assets/288e8e8f-0e60-4866-a40e-06eff02b890e" />
+
+## artifact in jfrog:
+
+<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/6ffcd66a-adbc-4729-bad9-a5f5af97ff9f" />
+
+## final version:
+
+<img width="1917" height="972" alt="Image" src="https://github.com/user-attachments/assets/8cc36292-3a9a-473e-a742-1e72c2fb0380" />
+
+## To download the tomcat:
+
+<img width="1902" height="385" alt="Image" src="https://github.com/user-attachments/assets/80e363a7-99f5-426d-94dc-3056f4788efd" />
+
+## Extract the tomcat:
+
+<img width="1112" height="186" alt="Image" src="https://github.com/user-attachments/assets/c7cdf5d2-ef65-4f34-aee0-e9d6c2c8e4cc" />
+
+## Path:
+
+<img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/6d55435b-6db5-4129-97cb-20b4d2a1e89f" />
+
+## To download the war file in tomcat:
+
+<img width="1916" height="176" alt="Image" src="https://github.com/user-attachments/assets/edd5dce8-b24d-45d0-b2b6-482974a68103" />
+
+## Successfully upload to deploy to tomcat:
+
+<img width="1917" height="427" alt="Image" src="https://github.com/user-attachments/assets/7bfbc0f5-f5e1-4397-bcd8-187b032aaf64" />
+
+## War file in webapps:
+
+<img width="1177" height="142" alt="Image" src="https://github.com/user-attachments/assets/485c40c2-7ce9-4c60-972b-6784c3d003c6" />
+
+## Successfully deployed:
+
+<img width="1908" height="967" alt="Image" src="https://github.com/user-attachments/assets/7e22a6ff-9a8b-46cd-919f-911cb1aff522" />
+
+## Output:
+
+<img width="1910" height="747" alt="Image" src="https://github.com/user-attachments/assets/156c147b-2758-48dc-a8a3-dac2cec440ea" />
+
 
 
 ## Author:
