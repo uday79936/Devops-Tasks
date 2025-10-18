@@ -121,15 +121,20 @@ sudo apt install openjdk-17-jdk -y
 ```
 **Step 3: Install JFrog Artifactory:**
 ```
-wget https://releases.jfrog.io/artifactory/artifactory-pro/org/artifactory/pro/jfrog-artifactory-pro/7.77.6/jfrog-artifactory-pro-7.77.6-linux.tar.gz
-tar -xvzf jfrog-artifactory-pro-7.77.6-linux.tar.gz
-cd artifactory-*/app/bin
+wget https://releases.jfrog.io/artifactory/artifactory-debs/pool/jfrog-artifactory-oss/jfrog-artifactory-oss-7.77.5.deb
+sudo dpkg -i jfrog-artifactory-oss-7.77.5.deb
+sudo apt --fix-broken install -y
 ```
-**Step 4: Start Artifactory**
+**Step 4: Start and Enable Service:**
 ```
-./artifactory.sh start
+sudo systemctl start artifactory
+sudo systemctl enable artifactory
 ```
-**Step 5: Access JFrog Web UI:**
+**Step 5: sudo systemctl status artifactory:**
+```
+sudo systemctl status artifactory
+```
+**Step 6: Access JFrog Web UI:**
 
 **Open browser:**
 ```
@@ -139,7 +144,7 @@ http://<ARTIFACTORY_SERVER_IP>:8081/
 ```
 admin: admin password: password
 ```
-**Step 6: Configure Repositories:**
+**Step 7: Configure Repositories:**
 
 Login as admin
 
@@ -153,7 +158,7 @@ Version Policy: Release
 
 Optionally, create libs-snapshot-local
 
-**Step 7: Verify Upload from Build Server:**
+**Step 8: Verify Upload from Build Server:**
 
 Go to Artifacts → libs-release-local ✅ Confirm .war file is visible
 
