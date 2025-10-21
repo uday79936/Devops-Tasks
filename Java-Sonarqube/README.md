@@ -192,9 +192,56 @@ SonarQube Running	systemctl status sonarqube	✅
 
 Web Access	http://<ip>:9000	✅
 
-Sonar Scanner Installed	sonar-scanner -v	✅
+Sonar Scanner Installed	sonar-scanner -v	✅(optional)
 
 Java Project Analyzed	Results visible in dashboard	✅
+
+
+## Images:
+
+## 1. Java Sonar EC2:
+
+<img width="1913" height="931" alt="Image" src="https://github.com/user-attachments/assets/c39cd53d-d422-4296-bcf7-beb8294d1316" />
+
+## 2. Install Java:
+
+<img width="767" height="116" alt="Image" src="https://github.com/user-attachments/assets/53b940d4-b58f-4864-a225-4c9558e3ee1c" />
+
+## 3. Java Version:
+
+<img width="1146" height="200" alt="Image" src="https://github.com/user-attachments/assets/6204f777-7a96-4996-9928-7be5bf91854a" />
+
+## 4. Maven Version:
+
+<img width="1102" height="248" alt="Image" src="https://github.com/user-attachments/assets/57253578-d372-4e85-b9e8-7a90fe95e1ac" />
+
+## 5. To download sonarqube:
+
+<img width="1872" height="308" alt="Image" src="https://github.com/user-attachments/assets/482a03e7-99e5-4aa7-b099-6841a42e0b18" />
+
+## 6. Sonar.Properties:
+
+<img width="1880" height="963" alt="Image" src="https://github.com/user-attachments/assets/06ab2d4e-adb8-46dc-b461-0f67846b70e8" />
+
+## 7. Start Sonarqube:
+
+<img width="1467" height="238" alt="Image" src="https://github.com/user-attachments/assets/9cec8c7e-c429-460d-96be-ad598a04b4bb" />
+
+## 8. Loginpage of sonar:
+
+<img width="1918" height="971" alt="Image" src="https://github.com/user-attachments/assets/c2b8bfb8-5f79-4a41-9554-d8178771a474" />
+
+## 9. Sonarqube success:
+
+<img width="1857" height="865" alt="Image" src="https://github.com/user-attachments/assets/92241227-07bf-479f-b8a0-2f26978e582a" />
+
+## 10. sonarqube Dashboard of output:
+
+<img width="1917" height="916" alt="Image" src="https://github.com/user-attachments/assets/d1db27c9-eb76-4604-b938-35ba22a8ec8b" />
+
+## 11. Quality Gate Output:
+
+<img width="1917" height="920" alt="Image" src="https://github.com/user-attachments/assets/0c6d9a9e-aace-4666-abe5-9274cb2ce1f5" />
 
 
 ## 🧠 8. Summary:
