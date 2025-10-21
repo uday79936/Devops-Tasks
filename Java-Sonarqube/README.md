@@ -42,9 +42,11 @@ sudo unzip sonarqube-10.6.0.92116.zip
 ```
 
 **Edit the configuration:**
-
 ```
-sudo vi /sonarqube/conf/sonar.properties
+cd conf/
+```
+```
+sudo vi /sonarqube/sonar.properties
 ```
 **Allow external access if needed:**
 
