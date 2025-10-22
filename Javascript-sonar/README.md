@@ -242,6 +242,69 @@ Results Visible on Dashboard	✅
 
 ## Images:
 
+## 1. Javascript sonarcube ec2:
+
+<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/9fe71c1a-8cb4-4653-b6d7-c77bac1f2057" />
+
+## 2. Git and Java version:
+
+<img width="1162" height="232" alt="Image" src="https://github.com/user-attachments/assets/0e43651b-102d-425a-a731-4da8329bdc51" />
+
+## 3. Extract the sonarcube:
+
+<img width="976" height="191" alt="Image" src="https://github.com/user-attachments/assets/1d675676-9eac-473d-84e2-53477713fd3b" />
+
+## 4. Edit the sonar.properties:
+
+<img width="1910" height="1016" alt="Image" src="https://github.com/user-attachments/assets/391c5b25-89d1-4ccc-8999-965ae0764136" />
+
+## 5. Loginpage of sonarcube:
+
+<img width="1912" height="976" alt="Image" src="https://github.com/user-attachments/assets/41b1e65c-b56a-4598-9c2f-a28544dc1cb4" />
+
+## 6. Update password of sonarcube:
+
+<img width="1918" height="906" alt="Image" src="https://github.com/user-attachments/assets/1858966d-2b36-40d7-b0ef-239aee4a02b3" />
+
+## 7. Token Generated:
+
+<img width="1912" height="972" alt="Image" src="https://github.com/user-attachments/assets/25f7685a-45f4-433a-a216-b0efb4d3c088" />
+
+## 8. ## Sonar scanner Download:
+
+<img width="1913" height="408" alt="Image" src="https://github.com/user-attachments/assets/a68dacc2-c273-4709-a80d-d14c6934a078" />
+
+## 9. ## Move sonar scanner:
+
+<img width="1783" height="221" alt="Image" src="https://github.com/user-attachments/assets/1623bb94-3344-46ed-9efc-f4769667758c" />
+
+## 10. Sonar scanner:
+
+<img width="1751" height="377" alt="Image" src="https://github.com/user-attachments/assets/52da94d1-20f6-4e1f-a266-1cd81245694b" />
+
+## 11. Clone the repository:
+
+<img width="1233" height="241" alt="Image" src="https://github.com/user-attachments/assets/379800dc-4e5c-4bf9-bb6e-5b0ddfe3640f" />
+
+## 12. Change the directory Angular-calc:
+
+<img width="1012" height="140" alt="Image" src="https://github.com/user-attachments/assets/8696c1e1-cd1d-4083-8adf-fe67d160ba97" />
+
+## 13. Sonar.properties:
+
+<img width="880" height="472" alt="Image" src="https://github.com/user-attachments/assets/6f159883-8383-482b-9bd9-318a72597395" />
+
+## 14. Sonar scanner success:
+
+<img width="1916" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e2691d84-633f-46ff-b157-9b5abff9fcd0" />
+
+## 15. Sonar Output:
+
+<img width="1913" height="977" alt="Image" src="https://github.com/user-attachments/assets/6bda0b79-020b-4d49-8b5c-0df013296d40" />
+
+## 16. Sonar Quality Gate Output:
+
+<img width="1918" height="972" alt="Image" src="https://github.com/user-attachments/assets/bf90f4c1-0037-4ef4-b8ee-b49214421d24" />
 
 
 ## Author:
