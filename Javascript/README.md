@@ -90,7 +90,7 @@ cd ~/AngularCalculator/dist/angularCalc
 
 ## 3.2 Transfer Files Using SCP:
 ```
-scp -i <pemfile> ubuntu@ip-address:/home/ubuntuAngularCalculator/dist/class.tar.gz ubuntu@ip-address:/home/ubuntu
+scp -i <pemfile> ubuntu@ip-address:/home/ubuntu/AngularCalculator/dist/class.tar.gz ubuntu@ip-address:/home/ubuntu
 ```
 
 Replace <vm2-ip> with VM2’s public IP.
