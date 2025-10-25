@@ -39,6 +39,8 @@ java -version
 sudo apt install wget unzip -y
 sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.6.0.92116.zip
 sudo unzip sonarqube-10.6.0.92116.zip
+
+sudo chown -R ubuntu:ubuntu ~/Java-Web-Calculator-App/sonarqube-10.6.0.92116
 ```
 
 **Edit the configuration:**
