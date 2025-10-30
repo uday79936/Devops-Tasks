@@ -124,13 +124,17 @@ GitHub Commit → Clone Job → Test Job → Build Job → Deploy Job
 
 <img width="1820" height="892" alt="Image" src="https://github.com/user-attachments/assets/91a9290c-d981-4962-b458-a4ebe2bec4e8" />
 
-## github plugins and webhooks:
+## 9. github plugins and webhooks:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4778c992-e945-474a-a073-b1cee0b3eb0d" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/06423bd4-c6ee-4789-aeea-dea37edcd692" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b67aad33-949d-441d-ac69-e08b5439ea14" />
+
+## 10. first pipeline output:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a3d22bf-d2cf-414f-b84f-e20daa3366d0" />
 
 ## Conclusion:
 
