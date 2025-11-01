@@ -66,6 +66,9 @@ sudo init 6
 sudo apt update -y
 sudo apt install openjdk-17-jdk -y
 java -version
+
+readlink -f $(which java)
+
 ```
 
 **Maven 3.9.11 is installed automatically with Jenkins dependencies, or manually via:**
