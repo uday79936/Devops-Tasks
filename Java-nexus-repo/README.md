@@ -137,7 +137,7 @@ sudo apt install openjdk-17-jdk -y
 
 **Step 3: Install Nexus Repository Manager:**
 ```
-sudo wget https://download.sonatype.com/nexus/3/latest-unix.tar.gz
+sudo wget https://download.sonatype.com/nexus/3/nexus-3.85.0-03-linux-x86_64.tar.gz
 sudo tar -xvzf latest-unix.tar.gz
 ```
 
