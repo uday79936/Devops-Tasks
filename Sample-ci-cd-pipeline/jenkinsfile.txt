@@ -1,0 +1,50 @@
+pipeline {
+    agent none
+
+    stages {
+        stage('Sonar Stage') {
+            agent { label 'sonar' }
+            steps {
+                script {
+                    echo "=== Running on SonarQube Agent ==="
+                    sh '''
+                        echo "Current User:"
+                        whoami
+                        echo "Host IP:"
+                        hostname -i
+                    '''
+                }
+            }
+        }
+
+        stage('Nexus Stage') {
+            agent { label 'nexus' }
+            steps {
+                script {
+                    echo "=== Running on Nexus Agent ==="
+                    sh '''
+                        echo "Current User:"
+                        whoami
+                        echo "Host IP:"
+                        hostname -i
+                    '''
+                }
+            }
+        }
+
+        stage('Tomcat Stage') {
+            agent { label 'tomcat' }
+            steps {
+                script {
+                    echo "=== Running on Tomcat Agent ==="
+                    sh '''
+                        echo "Current User:"
+                        whoami
+                        echo "Host IP:"
+                        hostname -i
+                    '''
+                }
+            }
+        }
+    }
+}
