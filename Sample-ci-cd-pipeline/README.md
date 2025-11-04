@@ -286,7 +286,64 @@ This verifies that all remote agents are accessible and Jenkins can execute comm
 
 ## Images:
 
+# 1. Change Hostname:
 
+**jenkins:**
+
+<img width="951" height="133" alt="Image" src="https://github.com/user-attachments/assets/2edf80e8-bde4-4cdb-a939-7a5a59b24416" />
+
+**Nexus:**
+
+<img width="987" height="150" alt="Image" src="https://github.com/user-attachments/assets/bd8c26bb-d9d2-45c8-a659-6aed6a6fa6d1" />
+
+**Tomcat:**
+
+<img width="1219" height="210" alt="Image" src="https://github.com/user-attachments/assets/b4980e88-5898-4091-8c8a-cd7c0b49f9ac" />
+
+# 2. ssh keys generated:
+
+<img width="1304" height="165" alt="Image" src="https://github.com/user-attachments/assets/c79fc7bb-04e1-40da-977b-a7c988e906cf" />
+
+<img width="1576" height="635" alt="Image" src="https://github.com/user-attachments/assets/959d8ad5-2f2f-46bc-8705-a93fffbe1518" />
+
+## 3. Plugins installed:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d0a06a4-a2be-4c57-acc1-af5274e59cb6" />
+
+## 4. Nodes configuration Output:
+
+<img width="1893" height="883" alt="Image" src="https://github.com/user-attachments/assets/65578b70-f6ca-42e3-8540-fdcaf8b8832c" />
+
+## 5. log outputs:
+
+**sonar log output:**
+
+
+<img width="1911" height="1001" alt="Image" src="https://github.com/user-attachments/assets/93b6aef1-a434-4518-865c-6ad1c60414ed" />
+
+**Nexus log output:**
+
+
+<img width="1909" height="1014" alt="Image" src="https://github.com/user-attachments/assets/2f43f961-b00f-4896-b5f0-50edbcf7142c" />
+
+**Tomcat Log output:**
+
+<img width="1883" height="1018" alt="Image" src="https://github.com/user-attachments/assets/6f6032f6-3bfa-414b-ad91-043d18b663c6" />
+
+## 6. Pipeline Console Outputs:
+
+**sonar pipeline console output:**
+
+<img width="1903" height="1014" alt="Image" src="https://github.com/user-attachments/assets/cf3498c8-f138-4b16-be48-8708a7646f0e" />
+
+
+**Nexus pipeline console output:**
+
+<img width="1920" height="984" alt="Image" src="https://github.com/user-attachments/assets/181e6ce7-e319-476f-8c74-5b859e0085b0" />
+
+**Tomcat pipeline console output:**
+
+<img width="1904" height="1000" alt="Image" src="https://github.com/user-attachments/assets/6684c56a-ffcf-4fe7-9b77-c172859222c0" />
 
 ## 🏁 Final Output:
 
