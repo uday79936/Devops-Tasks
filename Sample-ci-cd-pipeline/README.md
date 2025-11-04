@@ -292,6 +292,10 @@ This verifies that all remote agents are accessible and Jenkins can execute comm
 
 <img width="951" height="133" alt="Image" src="https://github.com/user-attachments/assets/2edf80e8-bde4-4cdb-a939-7a5a59b24416" />
 
+**sonar:**
+
+<img width="959" height="190" alt="Image" src="https://github.com/user-attachments/assets/61bc1a73-66f9-4d97-b35e-59b73a6eb65a" />
+
 **Nexus:**
 
 <img width="987" height="150" alt="Image" src="https://github.com/user-attachments/assets/bd8c26bb-d9d2-45c8-a659-6aed6a6fa6d1" />
