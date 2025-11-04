@@ -300,21 +300,63 @@ This verifies that all remote agents are accessible and Jenkins can execute comm
 
 <img width="1219" height="210" alt="Image" src="https://github.com/user-attachments/assets/b4980e88-5898-4091-8c8a-cd7c0b49f9ac" />
 
-# 2. ssh keys generated:
+## 2. jenkins:
+
+**Jenkins status:**
+
+<img width="1920" height="744" alt="Image" src="https://github.com/user-attachments/assets/50f7e206-e13c-4e6e-9790-3e4df41111ec" />
+
+**Unlock Jenkins:**
+
+<img width="1911" height="994" alt="Image" src="https://github.com/user-attachments/assets/5e9298ee-0434-4b25-801e-cff65da4f209" />
+
+**To see the Jenkins Password:**
+
+<img width="1149" height="146" alt="Image" src="https://github.com/user-attachments/assets/26c1b4a7-fb30-4290-a521-8102d79287e9" />
+
+**Customize jenkins:**
+
+<img width="1920" height="1006" alt="Image" src="https://github.com/user-attachments/assets/56d23ced-1ec5-40a9-b08f-5c8e64b21249" />
+
+**Getting started:**
+
+<img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/2c5f0678-e23e-4aea-9821-7097b09dfaee" />
+
+**Create First admin User:**
+
+<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/504e794b-658d-4ca1-a6fe-abdda7bfc97c" />
+
+
+# 3. ssh keys generated:
 
 <img width="1304" height="165" alt="Image" src="https://github.com/user-attachments/assets/c79fc7bb-04e1-40da-977b-a7c988e906cf" />
 
 <img width="1576" height="635" alt="Image" src="https://github.com/user-attachments/assets/959d8ad5-2f2f-46bc-8705-a93fffbe1518" />
 
-## 3. Plugins installed:
+## 4. Copy the public key in servers are sonar->nexus->tomcat:
+
+**sonar:**
+
+<img width="1904" height="1018" alt="Image" src="https://github.com/user-attachments/assets/73d40fb8-845f-4c37-8d8a-baf4abd48246" />
+
+**Nexus:**
+
+<img width="1910" height="344" alt="Image" src="https://github.com/user-attachments/assets/fb11fbf9-687f-4667-8660-9669f0718a76" />
+
+**Tomcat:**
+
+<img width="1907" height="402" alt="Image" src="https://github.com/user-attachments/assets/872c855e-bc72-4f74-bfc1-54a05cd83d03" />
+
+
+## 5. Plugins installed:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d0a06a4-a2be-4c57-acc1-af5274e59cb6" />
 
-## 4. Nodes configuration Output:
+## 6. Nodes configuration Output:
 
 <img width="1893" height="883" alt="Image" src="https://github.com/user-attachments/assets/65578b70-f6ca-42e3-8540-fdcaf8b8832c" />
 
-## 5. log outputs:
+## 7. log outputs:
 
 **sonar log output:**
 
@@ -330,7 +372,7 @@ This verifies that all remote agents are accessible and Jenkins can execute comm
 
 <img width="1883" height="1018" alt="Image" src="https://github.com/user-attachments/assets/6f6032f6-3bfa-414b-ad91-043d18b663c6" />
 
-## 6. Pipeline Console Outputs:
+## 7. Pipeline Console Outputs:
 
 **sonar pipeline console output:**
 
