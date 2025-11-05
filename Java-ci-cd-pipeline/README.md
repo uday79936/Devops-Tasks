@@ -418,6 +418,137 @@ curl -u admin:pass http://<TOMCAT_IP>:8080/manager/text/list
 
 ## Images:
 
+## 1. servers:
+
+**Jenkins:**
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cfd22eb6-1681-4e6b-b12b-76d067da3b9b" />
+
+**sonar:**
+
+<img width="1918" height="921" alt="Image" src="https://github.com/user-attachments/assets/9793364a-0041-47a4-8e49-fb02ee1e608e" />
+
+**nexus:**
+
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/8db30842-9ccc-4036-b7c1-42a331f3829a" />
+
+**tomcat:**
+
+<img width="1919" height="972" alt="Image" src="https://github.com/user-attachments/assets/5c21047c-c792-423b-9b6c-139953f4c908" />
+
+## 2. Change Hostnames:
+
+**Jenkins:**
+
+<img width="951" height="133" alt="Image" src="https://github.com/user-attachments/assets/9d024df2-c7f1-4821-b287-2235990db113" />
+
+**sonar:**
+
+<img width="959" height="190" alt="Image" src="https://github.com/user-attachments/assets/26e4cfa2-8587-470d-a6ef-e92cfb18dc02" />
+
+**nexus:**
+
+<img width="987" height="150" alt="Image" src="https://github.com/user-attachments/assets/395034a9-eb87-4631-a17c-a23ef97d0d98" />
+
+**Tomcat:**
+
+<img width="1219" height="210" alt="Image" src="https://github.com/user-attachments/assets/cd758587-5f81-4aca-9621-1e3361d9bcaf" />
+
+## 3. ssh keygen generated:
+
+
+<img width="1304" height="165" alt="Image" src="https://github.com/user-attachments/assets/627929a7-dad6-4eee-9f12-02f0f7a87332" />
+
+**sonar:**
+
+<img width="1904" height="1018" alt="Image" src="https://github.com/user-attachments/assets/7f83bf15-b797-4f5c-9fcb-6b385716d1cc" />
+
+**nexus:**
+
+<img width="1910" height="344" alt="Image" src="https://github.com/user-attachments/assets/2747fdac-39b9-458b-bf91-8e815fda0b07" />
+
+**tomcat:**
+
+<img width="1907" height="402" alt="Image" src="https://github.com/user-attachments/assets/cdb3897a-e23d-465c-ae49-7fe5cfcfb85f" />
+
+## 4. Sonarcube Dashboard:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/864e9aa0-6641-42c9-ab10-a780733dbd44" />
+
+## 5. sonar generate token:
+
+<img width="1914" height="1006" alt="Image" src="https://github.com/user-attachments/assets/3c4e7f4d-c820-4dc4-8b03-87c107191b3c" />
+
+## 6. Download nexus:
+
+<img width="1768" height="475" alt="Image" src="https://github.com/user-attachments/assets/a4467714-3d91-48fc-94aa-c0633d6c3759" />
+
+## 7. started nexus:
+
+<img width="1056" height="361" alt="Image" src="https://github.com/user-attachments/assets/6fd55c04-82ae-49de-900a-33f048be9ed7" />
+
+## 8. nexus password:
+
+<img width="1277" height="337" alt="Image" src="https://github.com/user-attachments/assets/4335e4bb-a6d8-4b8a-bc64-5a234d7ef28f" />
+
+## 9. Tomcat configuration:
+
+
+<img width="1227" height="892" alt="Image" src="https://github.com/user-attachments/assets/27ea57fe-5237-485c-8f80-aac43a6a8868" />
+
+## 10. configuration with maven settings:
+
+<img width="1517" height="847" alt="Image" src="https://github.com/user-attachments/assets/d840df5c-66ef-43e0-b68f-f0ad86c1f3d0" />
+
+## 11. Plugins installed:
+
+<img width="1917" height="977" alt="Image" src="https://github.com/user-attachments/assets/4f4863c8-b17b-4047-9246-e9e982cf7b3c" />
+
+## 12. Node agents:
+
+**sonar agent:**
+
+<img width="1172" height="657" alt="Image" src="https://github.com/user-attachments/assets/509663be-b597-4871-bbd7-3f8d7581e989" />
+
+**nexus agent:**
+
+<img width="1177" height="677" alt="Image" src="https://github.com/user-attachments/assets/9e9d3c44-6f58-4914-8a2e-c198f373c086" />
+
+**tomcat agent:**
+
+<img width="1227" height="677" alt="Image" src="https://github.com/user-attachments/assets/30000d70-f155-4018-a6f8-c4012d8ba5ed" />
+
+## 13. nodes output:
+
+<img width="1907" height="958" alt="Image" src="https://github.com/user-attachments/assets/11e28726-0059-4c6c-82fe-37c9c1548234" />
+
+
+## outputs:
+
+## 14. pipeline console output:
+
+<img width="1915" height="967" alt="Image" src="https://github.com/user-attachments/assets/895e90be-d04c-46c8-8882-aa3f7b312d71" />
+
+## 15. Pipeline output:
+
+<img width="1911" height="961" alt="Image" src="https://github.com/user-attachments/assets/35869fbe-29eb-4142-9697-8530c559dc95" />
+
+## 16.sonarcube success:
+
+<img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/7fafee81-7ee9-46a9-8880-9f95eed45098" />
+
+## 17. nexus repository:
+
+<img width="1913" height="975" alt="Image" src="https://github.com/user-attachments/assets/dc9d9a3d-1760-4b0b-8203-04de25c63dba" />
+
+## 18. tomcat output:
+
+<img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/94a318ae-20b9-4e75-94a8-5e85ebb0b041" />
+
+## 19. Java web calculator:
+
+<img width="1916" height="960" alt="Image" src="https://github.com/user-attachments/assets/cb96b4d1-4471-47dd-9b31-3b619eed25fb" />
+
 
 ## Auuthor:
 
