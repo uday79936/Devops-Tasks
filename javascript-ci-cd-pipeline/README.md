@@ -469,6 +469,119 @@ Nginx error logs (/var/log/nginx/error.log)
 
 ## Images:
 
+## 1. servers:
+
+**Jenkins:**
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/774c421f-9e85-454b-8e2c-c4c8e2064ac5" />
+
+**sonar:**
+
+<img width="1918" height="921" alt="Image" src="https://github.com/user-attachments/assets/c177e880-15b5-469e-ad3f-2b3e87806d12" />
+
+**nexus:**
+
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/785a5d14-a0aa-4985-9791-b2f8ea312510" />
+
+**Nginx:**
+
+<img width="1897" height="955" alt="Image" src="https://github.com/user-attachments/assets/32f182f0-9ac9-4f63-9b83-f15b73709d80" />
+
+## 2. Change hostnames:
+
+**Jenkins:**
+
+<img width="951" height="133" alt="Image" src="https://github.com/user-attachments/assets/1786d23f-f501-4a52-9845-1b9027c9cdd2" />
+
+**sonar:**
+
+<img width="987" height="150" alt="Image" src="https://github.com/user-attachments/assets/8a5c2dde-2447-4bb6-8061-683d44e34ab8" />
+
+**nexus:**
+
+<img width="987" height="150" alt="Image" src="https://github.com/user-attachments/assets/f4c4218b-b3de-41b9-9f7e-e9f1ec6e87d8" />
+
+**nginx:**
+
+<img width="1150" height="165" alt="Image" src="https://github.com/user-attachments/assets/ebac1244-6341-479f-ae5b-cbc1c7c30b89" />
+
+## 3. Jenkins:
+
+**Jenkins status active:**
+
+<img width="1920" height="744" alt="Image" src="https://github.com/user-attachments/assets/883e85e3-d23a-43e9-9c73-0d15246ce960" />
+
+**Unlock Jenkins:**
+
+
+<img width="1911" height="994" alt="Image" src="https://github.com/user-attachments/assets/32cb71a3-764f-42ec-acff-4589d12377ac" />
+
+**To see the Jenkins Password:**
+
+<img width="1149" height="146" alt="Image" src="https://github.com/user-attachments/assets/09dabd3b-a455-4862-b8bc-7388060ad35c" />
+
+**Customize Jenkins:**
+
+<img width="1920" height="1006" alt="Image" src="https://github.com/user-attachments/assets/0195f773-59ec-4773-b2ab-6ac936a5dcd8" />
+
+**Getting started:**
+
+<img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/d1b1b8fe-9e69-49ec-92f4-b214ca7fffea" />
+
+**Create admin user:**
+
+<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/a73f9c0d-19d6-4189-90b3-f9b50f10cb48" />
+
+**ssh keys generated:**
+
+<img width="1304" height="165" alt="Image" src="https://github.com/user-attachments/assets/0e7210f0-8fa8-42f0-a283-fbe95fc4e343" />
+
+**sonar:**
+
+<img width="1904" height="1018" alt="Image" src="https://github.com/user-attachments/assets/d0833d8c-4d4b-4fa7-b2a1-378ef10e88de" />
+
+**nexus:**
+
+<img width="1910" height="344" alt="Image" src="https://github.com/user-attachments/assets/fcf8b702-d6f3-4382-8d48-2fd155f0e5a9" />
+
+**nginx:**
+
+<img width="1918" height="267" alt="Image" src="https://github.com/user-attachments/assets/0d3a162e-6d17-4b0b-a22d-1627454eb737" />
+
+## sonarqube:
+
+**sonarqube admin dashboard:**
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1cf994cd-ad1f-44fc-bf15-65c88a4e026a" />
+
+**Sonar token:**
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6919fbdf-e7bc-448b-820b-f7f6c5b53e47" />
+
+**nginx status active:**
+
+<img width="1466" height="512" alt="Image" src="https://github.com/user-attachments/assets/966ec038-6ca7-49dc-a39f-e10a4c029dae" />
+
+**Plugins installed:**
+
+<img width="1908" height="967" alt="Image" src="https://github.com/user-attachments/assets/cc679c9e-5e0d-48f9-a7e8-34417150f44b" />
+
+## Nexus output:
+
+<img width="1918" height="973" alt="Image" src="https://github.com/user-attachments/assets/e0c80b43-382e-430e-b1f9-08e50df15333" />
+
+## sonarqube output:
+
+<img width="1906" height="956" alt="Image" src="https://github.com/user-attachments/assets/3844ec16-0108-4d64-bd7c-81a1c7284593" />
+
+## Javascript console output:
+
+<img width="1907" height="971" alt="Image" src="https://github.com/user-attachments/assets/c3e110c3-82ab-4b1c-b20f-158a1bf21cf6" />
+
+## Javascript output:
+
+<img width="1918" height="962" alt="Image" src="https://github.com/user-attachments/assets/3c7e1826-6b4b-46d3-a550-20f83c8be5b4" />
+
 
 
 
