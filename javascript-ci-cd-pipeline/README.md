@@ -583,6 +583,10 @@ Nginx error logs (/var/log/nginx/error.log)
 
 <img width="1907" height="971" alt="Image" src="https://github.com/user-attachments/assets/c3e110c3-82ab-4b1c-b20f-158a1bf21cf6" />
 
+## Javascript pipeline output:
+
+<img width="1912" height="972" alt="Image" src="https://github.com/user-attachments/assets/4e297aa8-612d-46b6-aa52-1204f5f17d21" />
+
 ## Javascript output:
 
 <img width="1918" height="962" alt="Image" src="https://github.com/user-attachments/assets/3c7e1826-6b4b-46d3-a550-20f83c8be5b4" />
