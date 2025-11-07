@@ -75,7 +75,12 @@ sudo init 6
 sudo hostnamectl set-hostname nginx
 sudo init 6
 ```
+## install nodejs:
 
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt install -y nodejs
+```
 ## 📦 Pipeline Stages:
 
 **step-1:**
