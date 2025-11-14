@@ -227,7 +227,7 @@ http://<EC2-Public-IP>:8000
 
 ## 17. Java Web-calculator output:
 
-<img width="1665" height="242" alt="Image" src="https://github.com/user-attachments/assets/03248f2a-c4b0-4c94-95fb-7321a7505f3a" />
+<img width="828" height="397" alt="Image" src="https://github.com/user-attachments/assets/4eeaef96-d4a8-4b2f-8222-9cc2d39a69ef" />
 
 ## 18. Output:
 
