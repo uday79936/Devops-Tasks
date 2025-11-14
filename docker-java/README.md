@@ -158,6 +158,85 @@ http://<EC2-Public-IP>:8000
 
 ## ✅ Deployment Completed Successfully:
 
+## Images:
+
+## 1. Docker Java Ec2 server:
+
+<img width="1918" height="940" alt="Image" src="https://github.com/user-attachments/assets/eb9a79f9-2fc3-426e-aa39-6dc666bf2e56" />
+
+## 2. Change Hostname:
+
+<img width="1026" height="197" alt="Image" src="https://github.com/user-attachments/assets/41fd910d-3af7-42bd-bf9b-9dd13dee0727" />
+
+## 3. Update the Server:
+
+<img width="787" height="112" alt="Image" src="https://github.com/user-attachments/assets/6087048f-72cf-4766-a635-b78d2ee545eb" />
+
+## 4. Install Docker:
+
+<img width="828" height="108" alt="Image" src="https://github.com/user-attachments/assets/d88d31ee-76be-48e2-a525-7b3e6b7e3c0a" />
+
+## 5. Start and enable docker:
+
+<img width="712" height="168" alt="Image" src="https://github.com/user-attachments/assets/86dfa7d2-1756-4b5e-9a67-df49eab3cefb" />
+
+## 6. Docker Status Active:
+
+<img width="1912" height="577" alt="Image" src="https://github.com/user-attachments/assets/436932c7-792f-4c26-9d7a-b550b4f698ae" />
+
+## 7. Change Permissions:
+
+<img width="1892" height="202" alt="Image" src="https://github.com/user-attachments/assets/483f03ab-4047-4e0c-aa32-59e9a9306fbe" />
+
+## 8. Clone the repository:
+
+<img width="1418" height="267" alt="Image" src="https://github.com/user-attachments/assets/7e82bb62-f22a-4fec-9bb9-0a3b3849519b" />
+
+## 9. Change the directory:
+
+<img width="617" height="157" alt="Image" src="https://github.com/user-attachments/assets/991678f0-e9eb-4a3f-bfa8-45595280bf2d" />
+
+## 10. Docker file:
+
+<img width="1040" height="896" alt="Image" src="https://github.com/user-attachments/assets/d56b5e39-0b25-4b44-a715-bd95e18147c4" />
+
+## 11. Docker Build:
+
+<img width="936" height="125" alt="Image" src="https://github.com/user-attachments/assets/ef084fab-c66d-4fcc-88c5-6bffeb3332ef" />
+
+## 12. Docker Build Success:
+
+<img width="1913" height="997" alt="Image" src="https://github.com/user-attachments/assets/9b4aecb8-1851-4ecf-b5b1-6fc198c804d9" />
+
+## 13. Docker Images:
+
+<img width="1187" height="213" alt="Image" src="https://github.com/user-attachments/assets/48d1774e-365b-41df-b6d7-f81384ceb802" />
+
+## 14. Docker run:
+
+<img width="1273" height="126" alt="Image" src="https://github.com/user-attachments/assets/5229b231-7edc-4b28-be6b-f586a5e52cf1" />
+
+## 15. Docker ps:
+
+<img width="1677" height="166" alt="Image" src="https://github.com/user-attachments/assets/ab73fc75-16f6-4912-b5a5-0db006ed0dbc" />
+
+## 16. Docker execute:
+
+
+<img width="1631" height="228" alt="Image" src="https://github.com/user-attachments/assets/7c4ed1a3-c61f-4c64-a7d2-0094b39cf34d" />
+
+## 17. Java Web-calculator output:
+
+<img width="1665" height="242" alt="Image" src="https://github.com/user-attachments/assets/03248f2a-c4b0-4c94-95fb-7321a7505f3a" />
+
+## 18. Output:
+
+<img width="1005" height="422" alt="Image" src="https://github.com/user-attachments/assets/6e49f569-dd21-4323-9226-f867f7aa1b4f" />
+
+## 19. Delete the Container:
+
+<img width="1665" height="242" alt="Image" src="https://github.com/user-attachments/assets/f96b6a3b-3fe5-4960-9173-88947c8deb92" />
+
 ## Author:
 
 **Uday Sairam Kommineni**
