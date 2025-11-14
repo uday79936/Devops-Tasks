@@ -158,6 +158,12 @@ http://<EC2-Public-IP>:8000
 
 ## ✅ Deployment Completed Successfully:
 
+## Delete the Container:
+
+```
+docker rm -rf cal-app
+```
+
 ## Images:
 
 ## 1. Docker Java Ec2 server:
