@@ -144,7 +144,7 @@ Push Docker Image.
 
 **Jenkins:** LTS 2.x, required plugins (Git, Pipeline, Maven, Docker, SonarQube, Credentials, Slack/Email).
 
-## Sample Jenkins Pipeline Structure:
+## Java Jenkins Pipeline Structure:
 ```
 pipeline {
     agent any
