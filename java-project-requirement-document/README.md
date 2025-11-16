@@ -381,7 +381,8 @@ git clone <repo-url>
 
 **Build-Success:**
 
-<img width="1913" height="980" alt="Image" src="https://github.com/user-attachments/assets/a5ec3e14-5777-47aa-858e-8f547cf11507" />
+
+<img width="1915" height="772" alt="Image" src="https://github.com/user-attachments/assets/38d26ebf-6b1f-439d-b2ff-4a8e770b5380" />
 
 **Sonarqube-analysis-success:**
 
