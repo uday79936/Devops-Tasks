@@ -132,17 +132,17 @@ Push Docker Image.
 ## Technical Specifications:
 
 
-GitHub: Repository URL, branch monitored, webhook configured.
+**GitHub:**  Repository URL, branch monitored, webhook configured.
 
-SonarQube: Version 8.x+, quality gate defined, API token in Jenkins.
+**SonarQube:**  Version 8.x+, quality gate defined, API token in Jenkins.
 
-Maven: Version 3.6+, commands: mvn clean test package.
+**Maven:** Version 3.6+, commands: mvn clean test package.
 
-Nexus: Version 3.x, artifact repository, retention policy.
+**Nexus:**  Version 3.x, artifact repository, retention policy.
 
-Docker & Docker Hub: Docker runtime 20.x+, image tagging using commit hash.
+**Docker & Docker Hub:**  Docker runtime 20.x+, image tagging using commit hash.
 
-Jenkins: LTS 2.x, required plugins (Git, Pipeline, Maven, Docker, SonarQube, Credentials, Slack/Email).
+**Jenkins:** LTS 2.x, required plugins (Git, Pipeline, Maven, Docker, SonarQube, Credentials, Slack/Email).
 
 ## Sample Jenkins Pipeline Structure:
 ```
