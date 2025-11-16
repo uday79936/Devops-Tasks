@@ -45,15 +45,15 @@ Transparent logging, metrics, and notifications for stakeholders.
 ## Stakeholders:
 
 
-Development Team: Pushes code to GitHub.
+**Development Team:**  Pushes code to GitHub.
 
-DevOps Team: Implements and maintains the CI/CD pipeline.
+**DevOps Team:** Implements and maintains the CI/CD pipeline.
 
-QA Team: Validates quality criteria and test coverage.
+**QA Team:**  Validates quality criteria and test coverage.
 
-Security Team: Ensures secure handling of credentials and pipeline best practices.
+**Security Team:**  Ensures secure handling of credentials and pipeline best practices.
 
-Project Manager: Monitors pipeline delivery and effectiveness.
+**Project Manager:** Monitors pipeline delivery and effectiveness.
 
 ## Functional Requirements:
 
