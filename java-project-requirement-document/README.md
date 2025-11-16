@@ -315,6 +315,120 @@ git clone <repo-url>
 
 ## Images:
 
+## 1. EC2 Server:
+
+<img width="1917" height="917" alt="Image" src="https://github.com/user-attachments/assets/a547c5fa-5c0c-4c60-9068-c54f7608a9cb" />
+
+## 2. Change permissions to docker path:
+
+<img width="1918" height="177" alt="Image" src="https://github.com/user-attachments/assets/2aeaaa8b-2482-42f4-84b7-027226d2ef5f" />
+
+## 3. Jenkins Installation:
+
+<img width="1018" height="512" alt="Image" src="https://github.com/user-attachments/assets/aaca3aac-eb77-4973-96a6-75b960180b73" />
+
+## 4. in jenkins container in install docker via root:
+
+<img width="1752" height="503" alt="Image" src="https://github.com/user-attachments/assets/a650f64b-ec5a-4673-9356-8edad61ba370" />
+
+## 5. In Jenkins container see the Docker version:
+
+**docker version part-1:**
+
+<img width="1912" height="820" alt="Image" src="https://github.com/user-attachments/assets/f251da9e-1471-4c37-816f-3c9b2b759bd6" />
+
+**docker version part-2:**
+
+<img width="1912" height="910" alt="Image" src="https://github.com/user-attachments/assets/bf60fb63-5fd1-4b07-bbcf-a3fb93ed4fbe" />
+
+## 5. Sonarqube installation:
+
+<img width="1147" height="447" alt="Image" src="https://github.com/user-attachments/assets/e32faccd-980a-4394-bd7c-18d6e54ec43d" />
+
+## 6. Nexus Installation:
+
+<img width="1133" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c58083f-6d74-4cf6-a461-4a4964fa8c47" />
+
+## 7. Docker Images:
+
+<img width="861" height="221" alt="Image" src="https://github.com/user-attachments/assets/17cb0485-ba4b-4601-b708-25d4ba245135" />
+
+## 8. Docker Containers:
+
+<img width="1891" height="232" alt="Image" src="https://github.com/user-attachments/assets/fb08f502-b8fc-43fa-a038-3f7c62750165" />
+
+## 9. Jenkins admin.password:
+
+<img width="978" height="113" alt="Image" src="https://github.com/user-attachments/assets/9ffbded0-4952-4f39-b473-7fb380cb5557" />
+
+## 10. Sonar Token:
+
+<img width="1913" height="960" alt="Image" src="https://github.com/user-attachments/assets/98b8ae84-cfa1-4e98-9be6-040a849faee8" />
+
+## 11. Nexus admin.password:
+
+<img width="1886" height="328" alt="Image" src="https://github.com/user-attachments/assets/a0f79ed2-a577-4dc3-97d6-c4d74ee3a832" />
+
+## 12. Credientials:
+
+<img width="1913" height="961" alt="Image" src="https://github.com/user-attachments/assets/b1629780-cdc5-4b2c-a834-5aa4799c1c91" />
+
+## 13. Plugins Installed:
+
+<img width="1913" height="980" alt="Image" src="https://github.com/user-attachments/assets/a5ec3e14-5777-47aa-858e-8f547cf11507" />
+
+## 14. console outputs:
+
+**Build-Success:**
+
+<img width="1913" height="980" alt="Image" src="https://github.com/user-attachments/assets/a5ec3e14-5777-47aa-858e-8f547cf11507" />
+
+**Sonarqube-analysis-success:**
+
+<img width="1915" height="907" alt="Image" src="https://github.com/user-attachments/assets/13aff849-59b3-4b97-8770-e71a4477419e" />
+
+**nexus artifact success:**
+
+<img width="1911" height="962" alt="Image" src="https://github.com/user-attachments/assets/0c448f2e-38f5-421e-91fd-abae5d6b3093" />
+
+**Docker image created success and pushed to dockerhub:**
+
+<img width="1918" height="971" alt="Image" src="https://github.com/user-attachments/assets/bbceb3fa-5670-4767-9897-214ea8dbe2bf" />
+
+**Deploy to Tomcat Success:**
+
+<img width="1912" height="966" alt="Image" src="https://github.com/user-attachments/assets/547967d8-ee2a-4d9b-be6d-681e1f5f8806" />
+
+## 15. Sonarqube Output success:
+
+<img width="1913" height="976" alt="Image" src="https://github.com/user-attachments/assets/0c9745c9-2a55-4dcb-a8a7-8d1f8a1c87e9" />
+
+## 16. Nexus artifactory output:
+
+<img width="1907" height="982" alt="Image" src="https://github.com/user-attachments/assets/1bfc9f8c-be3d-4129-a32f-7c06406d7b8a" />
+
+## 17. Docker Repository output:
+
+<img width="1916" height="973" alt="Image" src="https://github.com/user-attachments/assets/1459f5e5-279f-418b-9692-d08f849bcdb1" />
+
+## 18. Tomcat container in war file:
+
+<img width="763" height="151" alt="Image" src="https://github.com/user-attachments/assets/bff0fcb6-5dfb-454f-b6d9-fa4b17012810" />
+
+## 19. pipeliine success:
+
+**pipeline output:**
+
+<img width="1916" height="973" alt="Image" src="https://github.com/user-attachments/assets/eebe9aa2-207b-4a31-bc86-4ce694714979" />
+
+**pipeline overview:**
+
+<img width="1917" height="972" alt="Image" src="https://github.com/user-attachments/assets/9d1d2c79-c4d7-453c-adfc-a433b467a722" />
+
+## 20. output:
+
+<img width="1907" height="972" alt="Image" src="https://github.com/user-attachments/assets/6b42df96-ac5c-4539-af1f-a6b68f528213" />
+
 ## Author:
 
 **Uday Sairam Kommineni**
