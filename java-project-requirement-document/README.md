@@ -406,7 +406,7 @@ git clone <repo-url>
 
 ## 16. Nexus artifactory output:
 
-<img width="1907" height="982" alt="Image" src="https://github.com/user-attachments/assets/1bfc9f8c-be3d-4129-a32f-7c06406d7b8a" />
+<img width="1913" height="975" alt="Image" src="https://github.com/user-attachments/assets/6ce030b9-5c2a-4cb7-a2e5-c8f682b3e76d" />
 
 ## 17. Docker Repository output:
 
