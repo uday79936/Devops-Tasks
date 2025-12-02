@@ -1,0 +1,5 @@
+- name: Deploy sample page
+  copy:
+    src: info.html
+    dest: /var/www/html/info.html
+  notify: Restart apache2
