@@ -360,6 +360,111 @@ Your Ansible environment is now cloud-ready and fully scalable.
 
 ## Images:
 
+## 1. EC2 Servers:
+
+**Ansible-Master ec2:**
+
+<img width="1918" height="922" alt="Image" src="https://github.com/user-attachments/assets/033bea88-a8ff-47f4-82a7-59589b09e351" />
+
+**web ec2:**
+
+<img width="1916" height="913" alt="Image" src="https://github.com/user-attachments/assets/bf234d18-aaba-4e54-9a4f-9c9a69bbfdfe" />
+
+## 2. Change Hostname:
+
+<img width="962" height="176" alt="Image" src="https://github.com/user-attachments/assets/b87f8908-b737-48c0-917c-589ca6cf3a81" />
+
+## 3. Ansible Installation:
+
+<img width="788" height="91" alt="Image" src="https://github.com/user-attachments/assets/1a99cee7-3e15-4603-a590-1042449f13cb" />
+
+## 4. AWS install cli:
+
+<img width="1382" height="177" alt="Image" src="https://github.com/user-attachments/assets/8a2a9fdd-9cfb-45b4-baff-30735d68129a" />
+
+## 5. Install python3.12:
+
+<img width="765" height="122" alt="Image" src="https://github.com/user-attachments/assets/9419e0b1-ed92-4db0-8156-e9fa879f5ece" />
+
+## 6. python3 menv:
+
+<img width="643" height="127" alt="Image" src="https://github.com/user-attachments/assets/198b1aab-1fc1-4171-882a-fe9452c1089d" />
+
+## 7. python activate:
+
+<img width="640" height="112" alt="Image" src="https://github.com/user-attachments/assets/d866fdd6-c859-4523-9605-9acbfafc2302" />
+
+## 8. Boto3:
+
+<img width="773" height="125" alt="Image" src="https://github.com/user-attachments/assets/40363c5f-464f-4070-9be1-73c0a15999eb" />
+
+## 9. Ansible-galaxy-collection:
+
+<img width="1047" height="142" alt="Image" src="https://github.com/user-attachments/assets/faf36663-f99e-4afe-b82a-347e07abb568" />
+
+## 10. Ansible galaxy:
+
+<img width="1488" height="152" alt="Image" src="https://github.com/user-attachments/assets/9639d281-4e46-47a0-9563-8a5985526e08" />
+
+## 11. Ansible inventory list:
+
+<img width="1912" height="1023" alt="Image" src="https://github.com/user-attachments/assets/96fea576-c405-4a3e-8366-dcee6401936d" />
+
+## 12. Secure copy:
+
+<img width="1917" height="272" alt="Image" src="https://github.com/user-attachments/assets/3a9691c0-a1b6-4d4b-ba59-c9dff7c75847" />
+
+## 13. Pem file permissions:
+
+<img width="951" height="808" alt="Image" src="https://github.com/user-attachments/assets/7b65632e-3a3f-40f3-bc3b-067e01ecb335" />
+
+## 14. Successfully triggered:
+
+<img width="1636" height="282" alt="Image" src="https://github.com/user-attachments/assets/a49cbe69-def1-455e-acf0-bd3abf8c6066" />
+
+## 15. Role1 was created successfully:
+
+<img width="1037" height="158" alt="Image" src="https://github.com/user-attachments/assets/a3253291-3983-4dcd-9535-234104be4d6f" />
+
+## 16. Role1 folder:
+
+<img width="1010" height="157" alt="Image" src="https://github.com/user-attachments/assets/b04ee818-5b32-4bc0-8c77-3b1267acb15f" />
+
+## 17. Installer.yml:
+
+<img width="992" height="531" alt="Image" src="https://github.com/user-attachments/assets/4c04190d-2266-4ac8-b309-e4eb0374e593" />
+
+## 18. Config.yml
+
+<img width="632" height="381" alt="Image" src="https://github.com/user-attachments/assets/2163c49d-666e-4db8-a8d4-251a225b397b" />
+
+## 19. info.html
+
+<img width="711" height="172" alt="Image" src="https://github.com/user-attachments/assets/74b0d3f7-3111-46c5-a0b4-84b72c318286" />
+
+## 20. handlers.main.yml:
+
+<img width="496" height="356" alt="Image" src="https://github.com/user-attachments/assets/61008fe1-1425-4f7c-974b-ce9a3bd855c7" />
+
+## 21. Role1 project structure:
+
+<img width="798" height="555" alt="Image" src="https://github.com/user-attachments/assets/23407525-58a7-41d3-a72a-c5699bf627fb" />
+
+## 22. web-setup.yml:
+
+<img width="443" height="257" alt="Image" src="https://github.com/user-attachments/assets/6330cb5b-51ec-42f1-956e-dc72b3ce9459" />
+
+## 23. tasks.main.yml:
+
+<img width="425" height="245" alt="Image" src="https://github.com/user-attachments/assets/a0284f8f-18ca-4c8d-8d31-44edb9d6177e" />
+
+## 24. Executed yml:
+
+<img width="1917" height="677" alt="Image" src="https://github.com/user-attachments/assets/8ac412b3-4e90-436e-beba-81b4b60749bc" />
+
+## 25. Output:
+
+<img width="1036" height="318" alt="Image" src="https://github.com/user-attachments/assets/6a8d90be-7e62-4631-a518-6f706bf64f53" />
 
 
 ## Author:
