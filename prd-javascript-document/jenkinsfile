@@ -1,0 +1,188 @@
+pipeline {
+
+    agent any
+
+    tools {
+        nodejs 'nodejs-18'
+    }
+
+    environment {
+
+        VERSION   = "0.0.${BUILD_NUMBER}"
+        ARTIFACT  = "online-book-store-${VERSION}.tar.gz"
+
+        SONARQUBE_SERVER = 'sonar'
+
+        NEXUS_URL  = 'http://3.144.160.233:8081'
+        NEXUS_REPO = 'raw-releases'
+        NEXUS_ARTIFACT = 'online-book-store'
+
+        DOCKER_IMAGE_FULL = 'udaysairam/online-book-store'
+    }
+
+    stages {
+
+        /*---------------------------------
+         Checkout Code
+        ----------------------------------*/
+        stage('Checkout') {
+            steps {
+                checkout([$class: 'GitSCM',
+                    branches: [[name: '*/main']],
+                    userRemoteConfigs: [[
+                        url: 'https://github.com/uday79936/Online-book-store.git'
+                    ]]
+                ])
+            }
+        }
+
+        /*---------------------------------
+         Install Dependencies
+        ----------------------------------*/
+        stage('Install Dependencies') {
+            steps {
+                sh 'npm ci || npm install'
+            }
+        }
+
+        /*---------------------------------
+         SonarQube Scan
+        ----------------------------------*/
+        stage('SonarQube Scan') {
+            steps {
+                script {
+
+                    def sonarSources = sh(
+                        script: '[ -d "src" ] && echo src || echo .',
+                        returnStdout: true
+                    ).trim()
+
+                    withSonarQubeEnv("${SONARQUBE_SERVER}") {
+
+                        sh """
+                            mkdir -p coverage
+                            echo "" > coverage/lcov.info
+
+                            npx sonar-scanner \
+                            -Dsonar.projectKey=online-book-store \
+                            -Dsonar.projectName=online-book-store \
+                            -Dsonar.projectVersion="${VERSION}" \
+                            -Dsonar.sources="${sonarSources}" \
+                            -Dsonar.javascript.lcov.reportPaths="coverage/lcov.info" \
+                            -Dsonar.sourceEncoding="UTF-8"
+                        """
+                    }
+                }
+            }
+        }
+
+        /*---------------------------------
+         Build App
+        ----------------------------------*/
+        stage('Build App') {
+            steps {
+                sh 'npm run build'
+            }
+        }
+
+        /*---------------------------------
+         Package Compress Build Folder
+        ----------------------------------*/
+        stage('Package Artifact') {
+            steps {
+                sh '''
+                    tar -czf "${ARTIFACT}" -C build .
+                '''
+            }
+        }
+
+        /*---------------------------------
+         Upload Artifact To Nexus
+        ----------------------------------*/
+        stage('Upload Artifact To Nexus') {
+
+            steps {
+                withCredentials([
+                    usernamePassword(credentialsId: 'nexus',
+                                     usernameVariable: 'NEXUS_USR',
+                                     passwordVariable: 'NEXUS_PSW')
+                ]) {
+
+                    sh '''
+                        UPLOAD_URL="${NEXUS_URL}/repository/${NEXUS_REPO}/${ARTIFACT}"
+
+                        curl -f -u "${NEXUS_USR}:${NEXUS_PSW}" \
+                        --upload-file "${ARTIFACT}" "${UPLOAD_URL}"
+                    '''
+                }
+            }
+        }
+
+        /*---------------------------------
+         Build Docker Image
+        ----------------------------------*/
+        stage('Build Docker Image') {
+
+            steps {
+                sh '''
+                    docker build \
+                    -t ${DOCKER_IMAGE_FULL}:${VERSION} .
+                '''
+            }
+        }
+
+        /*---------------------------------
+         Push DockerHub Image
+        ----------------------------------*/
+        stage('Push DockerHub Image') {
+
+            steps {
+
+                withCredentials([
+                    usernamePassword(credentialsId: 'dockerhub',
+                                     usernameVariable: 'USER',
+                                     passwordVariable: 'PASS')
+                ]) {
+
+                    sh '''
+                        echo "$PASS" | docker login -u "$USER" --password-stdin
+                        docker push ${DOCKER_IMAGE_FULL}:${VERSION}
+                        docker logout
+                    '''
+                }
+            }
+        }
+
+        /*---------------------------------
+         Deploy To Nginx Server
+        ----------------------------------*/
+        stage('Deploy To Nginx') {
+
+            steps {
+
+                sh '''
+                    VERSION="0.0.${BUILD_NUMBER}"
+
+                    docker pull ${DOCKER_IMAGE_FULL}:${VERSION}
+
+                    docker stop nginx || true
+                    docker rm nginx || true
+
+                    docker run -d --name nginx \
+                    -p 80:80 \
+                    ${DOCKER_IMAGE_FULL}:${VERSION}
+                '''
+            }
+        }
+
+    }
+
+    post {
+        success {
+            echo "🚀 Pipeline Success → DockerHub + Nginx Deploy ✔"
+        }
+        failure {
+            echo "❌ Pipeline Failed"
+        }
+    }
+}

@@ -1,0 +1,152 @@
+/* Global layout */
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  background: linear-gradient(135deg, #6a5acd, #764ba2);
+  color: white;
+  min-height: 100vh;
+}
+
+.app {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px 32px;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 25px;
+  animation: fadeIn 0.8s ease-in;
+}
+
+.header h1 span {
+  background: linear-gradient(90deg, #ffbb00, #ff6b81);
+  -webkit-background-clip: text;
+  color: transparent;
+  letter-spacing: 1px;
+}
+
+.header h1 {
+  font-size: 2.6rem;
+  margin: 0 0 10px;
+}
+
+/* Cart count badge */
+.cart-status {
+  font-size: 1.1rem;
+  padding: 6px 20px;
+  border-radius: 30px;
+  display: inline-block;
+  background: rgba(255,255,255,0.18);
+  backdrop-filter: blur(6px);
+  margin-top: 6px;
+}
+
+/* toggle cart button */
+.toggle-cart-btn {
+  margin-top: 15px;
+  border: none;
+  padding: 6px 16px;
+  border-radius: 20px;
+  background: rgba(0,0,0,0.25);
+  color: white;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.toggle-cart-btn:hover {
+  background: rgba(0,0,0,0.45);
+}
+
+/* section top controls */
+.top-controls {
+  margin: 25px 0 20px;
+  display: flex;
+  gap: 14px;
+  justify-content: space-between;
+}
+
+/* search box */
+.search-box {
+  width: 65%;
+  padding: 12px 16px;
+  border-radius: 14px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  color: black;
+}
+
+.search-box::placeholder {
+  color: #444;
+}
+
+/* category dropdown */
+.select-box {
+  width: 35%;
+  padding: 12px 16px;
+  border-radius: 14px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  color: black;
+}
+
+.content {
+  display: flex;
+  gap: 24px;
+  animation: slideUp 1s ease-out;
+}
+
+/* Cart column animation */
+.cart-container {
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+/* Footer */
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
+
+/* Responsive layout */
+@media (max-width: 880px) {
+
+  .content {
+    flex-direction: column;
+  }
+
+  .top-controls {
+    flex-direction: column;
+  }
+
+  .search-box,
+  .select-box {
+    width: 100%;
+  }
+}
+
+/* subtle animations */
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.94);
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Mobile Friendly -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Title -->
+    <title>🛒 Online Store | Shop Vibrantly</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.png" />
+
+    <!-- Theme color -->
+    <meta name="theme-color" content="#6A5ACD" />
+
+    <!-- SEO -->
+    <meta
+      name="description"
+      content="A modern colourful online shopping platform built with React. Browse products, manage cart & checkout easily."
+    />
+
+    <!-- OG Social Media Tags -->
+    <meta property="og:title" content="Online Store" />
+    <meta
+      property="og:description"
+      content="A colourful React online store with cart and modern UI."
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Basic Styling -->
+    <style>
+      :root {
+        --accent: linear-gradient(135deg, #667eea, #764ba2);
+        --bg: #f4f6fc;
+        --text: #222;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0f0f11;
+          --text: #f7f7f7;
+        }
+      }
+
+      body {
+        margin: 0;
+        font-family: "Poppins", sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      #root::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: var(--accent);
+        opacity: 0.25;
+        z-index: -1;
+      }
+
+      .welcome {
+        text-align: center;
+        animation: fadeIn 1.2s ease-out;
+      }
+
+      .welcome h1 {
+        margin: 0;
+        font-size: 3rem;
+        color: #ffffff;
+        background: var(--accent);
+        padding: 12px 32px;
+        border-radius: 16px;
+        display: inline-block;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.22);
+        animation: float 3s infinite ease-in-out;
+      }
+
+      .welcome p {
+        font-size: 1.2rem;
+        opacity: 0.8;
+        margin-top: 16px;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      @keyframes float {
+        0% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-8px);
+        }
+        100% {
+          transform: translateY(0px);
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+      <div class="welcome">
+        <h1>Welcome to Our Store 🎉</h1>
+        <p>Shop products, explore categories and enjoy a colourful UI</p>
+      </div>
+    </div>
+  </body>
+</html>
