@@ -540,7 +540,93 @@ Multi-environment promotion (Dev → QA → Prod)
 
 ## Images:
 
+## 1. Javascript online store ec2:
 
+<img width="1918" height="921" alt="Image" src="https://github.com/user-attachments/assets/257b4beb-a422-47b1-9136-0cbb408463ac" />
+
+## 2. Sonarqube download in docker:
+
+<img width="1032" height="460" alt="Image" src="https://github.com/user-attachments/assets/b97be9b2-431c-4971-b498-cc6ea1a49f6b" />
+
+## 3. Sonatype nexus3 download in docker:
+
+<img width="1032" height="372" alt="Image" src="https://github.com/user-attachments/assets/2f624cb5-8423-44f1-ad1e-1c0e129486db" />
+
+## 4. Jenkins download in docker:
+
+<img width="1032" height="372" alt="Image" src="https://github.com/user-attachments/assets/2f624cb5-8423-44f1-ad1e-1c0e129486db" />
+
+## 5. Docker images:
+
+<img width="1006" height="216" alt="Image" src="https://github.com/user-attachments/assets/37df75bc-5dee-474d-9d64-e86c725f2023" />
+
+## 6. Docker ps:
+
+<img width="1902" height="307" alt="Image" src="https://github.com/user-attachments/assets/36e55d11-56d3-4a91-b2d3-61f462b9dfe8" />
+
+## 7. Sonarqube token:
+
+<img width="1910" height="976" alt="Image" src="https://github.com/user-attachments/assets/e6630593-bf85-425b-9dfe-a20b7a4ace46" />
+
+## 8. Plugins installed in jenkins:
+
+<img width="1918" height="977" alt="Image" src="https://github.com/user-attachments/assets/fe85bd04-b1a4-4ef3-b648-c19f029130e4" />
+
+## 9. Credentials in jenkins:
+
+<img width="1901" height="711" alt="Image" src="https://github.com/user-attachments/assets/d0e36855-17d4-4591-8cc3-8ef2956eb215" />
+
+## 10. Jenkins container docker in docker:
+
+<img width="1917" height="342" alt="Image" src="https://github.com/user-attachments/assets/f237cd7c-a2f4-4690-b457-6fd24a6ebda7" />
+
+## 11. Docker login cli:
+
+<img width="1327" height="446" alt="Image" src="https://github.com/user-attachments/assets/aa961a7c-0882-4795-9d93-0a31e842d5d7" />
+
+## 12. Docker Activation:
+
+<img width="1877" height="955" alt="Image" src="https://github.com/user-attachments/assets/440ca7ec-7d77-4328-a971-6938bdf31028" />
+
+## 13. Docker Login succeeded:
+
+<img width="1281" height="533" alt="Image" src="https://github.com/user-attachments/assets/e470362e-7515-46f5-a2e0-d7b6403517ec" />
+
+## 14. Pipeline succeeded:
+
+<img width="1910" height="971" alt="Image" src="https://github.com/user-attachments/assets/bd685424-d45f-41a1-8467-199b6b43b732" />
+
+## 15. Javascript-pipeline succeeded:
+
+<img width="1912" height="962" alt="Image" src="https://github.com/user-attachments/assets/091c2b5c-bc76-4608-a3b6-718bfcd81c13" />
+
+## 16. Javascript pipeline overview succeeded:
+
+<img width="1917" height="976" alt="Image" src="https://github.com/user-attachments/assets/64db9843-2d01-4c0d-aff5-bb2a72d1a322" />
+
+## 17. Sonarqube analysis passed:
+
+<img width="1917" height="923" alt="Image" src="https://github.com/user-attachments/assets/20520724-c6f6-4726-b9af-5d02159d89ca" />
+
+## 18. Nexus Repository output:
+
+<img width="1917" height="962" alt="Image" src="https://github.com/user-attachments/assets/91881ea2-d34f-4cde-9948-a4d0779a1a2f" />
+
+## 19. Dockerhub output:
+
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/8b67e499-0ceb-4975-8006-360a565184c7" />
+
+## 20. Javascript execution success:
+
+<img width="1910" height="957" alt="Image" src="https://github.com/user-attachments/assets/e42bcac9-f83d-474b-ba30-95ad5414fe9c" />
+
+## 21. Javascript docker pipeline success:
+
+<img width="1910" height="916" alt="Image" src="https://github.com/user-attachments/assets/6ae21cee-7ccf-4575-b383-de185e52ebdb" />
+
+## 22. Javascript online-store output:
+
+<img width="1916" height="977" alt="Image" src="https://github.com/user-attachments/assets/bc33a61a-6acc-49ef-be8c-8bdfc2ed4138" />
 
 
 ## Author:
