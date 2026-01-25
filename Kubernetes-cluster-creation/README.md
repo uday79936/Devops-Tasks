@@ -215,7 +215,7 @@ You have successfully:
 * Created an S3-backed Kubernetes cluster using kops
 * Deployed and exposed a sample application
 * Cleaned up all resources
-* 
+
 ## Images:
 
 ## 1. EC2 Server:
